@@ -3,7 +3,7 @@
 ##  Project Overview
 Repair360 is a web-based service management platform that connects users with technicians for device repair services. Users can register, log in, book repair services, track service status, and make payments. Administrators can manage users, technicians, and service requests efficiently.
 
-This project is developed as a **Final Year Web Based Project** to demonstrate real-world Software Testing Life Cycle (STLC) activities including requirement analysis, test planning, test case design, execution, bug reporting, performance testing, and security testing.
+This project is developed as a my **Final Year Web Based Project** to demonstrate real-world Software Testing Life Cycle (STLC) activities including requirement analysis, test planning, test case design, execution, bug reporting, performance testing, and security testing.
 
 ---
 
@@ -19,10 +19,11 @@ This project is developed as a **Final Year Web Based Project** to demonstrate r
 - Functional Testing  
 - Regression Testing  
 - Smoke Testing  
-- User Interface (UI) Testing  
-- API Testing  
-- Database Testing (basic validation)  
+- User Interface (UI) Testing
+- Database Testing (basic validation)
 - Performance Testing (basic load simulation)
+- Security Testing
+- Bug Reporting
 
 ---
 
@@ -38,16 +39,12 @@ This project is developed as a **Final Year Web Based Project** to demonstrate r
 
 ##  Repository Structure
 
-```text
+text
 Repair360-SQA
 │
-├── 01_Requirement_Analysis
-├── 02_Test_Plan
-├── 03_Test_Scenarios
-├── 04_Test_Cases
-├── 05_Test_Execution_Report
-├── 06_Bug_Reports
-├── 07_API_Testing
-├── 08_Performance_Testing
-├── Screenshots
+├── 01_Test_Cases
+├── 02_Bug_Report
+├── 03_Security_Testing
+├── 04_Performance_Testing
+├── 05_Project_Report
 └── README.md
