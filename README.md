@@ -39,7 +39,7 @@ This project is developed as a my **Final Year Web Based Project** to demonstrat
 
 ##  Repository Structure
 
-text
+```text
 Repair360-SQA
 │
 ├── 01_Test_Cases
